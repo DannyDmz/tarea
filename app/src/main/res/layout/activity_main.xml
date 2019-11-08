@@ -19,7 +19,7 @@
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>
-
+//comentario
     <include layout="@layout/content_main" />
 //comentario
     <com.google.android.material.floatingactionbutton.FloatingActionButton
